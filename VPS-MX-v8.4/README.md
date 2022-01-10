@@ -17,7 +17,7 @@ UPDATE 02/04/2021
 
 ## :book: Installation  ( Team Casita VPS-MX Versao 8.4 )
 
-apt update; apt upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX-FREE/main/VPS-MX-v8.4/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
+apt update; apt upgrade -y; wget https://raw.githubusercontent.com/Waldo60/Antigua-VrE/main/VPS-MX-v8.4/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
 
 ## :book: Installation  ( Team Casita VPS-MX Versao 8.4 ) Alternativo con sources.list 16 o 18
 
